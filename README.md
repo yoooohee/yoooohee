@@ -36,13 +36,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yoooohee&theme=default" alt="Anurag's GitHub stats" />
 
     <!-- Solved.ac Profile Badge -->
-    <a href="https://solved.ac/your_boj_handle">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=your_boj_handle" alt="Solved.ac 프로필" />
+    <a href="https://solved.ac/yunbal12345">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=yunbal12345" alt="Solved.ac 프로필" />
     </a>
 
     <!-- Alternative Solved.ac Badge -->
-    <a href="https://solved.ac/profile/your_boj_handle">
-        <img src="https://mazandi.herokuapp.com/api?handle=your_boj_handle&theme=warm" alt="Solved.ac Profile Badge" />
+    <a href="https://solved.ac/profile/yunbal12345">
+        <img src="https://mazandi.herokuapp.com/api?handle=yunbal12345&theme=warm" alt="Solved.ac Profile Badge" />
     </a>
 </div>
     
