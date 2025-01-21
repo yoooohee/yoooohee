@@ -30,7 +30,7 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
+    <div style="text-align: left;"> </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
 <div style="text-align: left;"> 
     <img src="https://github-readme-stats.vercel.app/api?username=yoooohee&theme=default" alt="Anurag's GitHub stats" />
@@ -44,6 +44,5 @@
     <a href="https://solved.ac/profile/yunbal12345">
         <img src="https://mazandi.herokuapp.com/api?handle=yunbal12345&theme=warm" alt="Solved.ac Profile Badge" />
     </a>
-    </div>
 </div>
     
