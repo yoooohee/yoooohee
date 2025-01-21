@@ -31,8 +31,21 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yoooohee&custom_title=yoooohee's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoooohee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+<div style="text-align: left;"> 
+    <!-- GitHub Stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default" alt="Anurag's GitHub stats" />
+    </a>
+
+    <!-- Solved.ac Profile Badge -->
+    <a href="https://solved.ac/your_boj_handle">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=your_boj_handle" alt="Solved.ac 프로필" />
+    </a>
+
+    <!-- Alternative Solved.ac Badge -->
+    <a href="https://solved.ac/profile/your_boj_handle">
+        <img src="https://mazandi.herokuapp.com/api?handle=your_boj_handle&theme=warm" alt="Solved.ac Profile Badge" />
+    </a>
+</div>
     
