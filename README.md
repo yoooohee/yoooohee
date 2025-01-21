@@ -35,7 +35,7 @@
 <div style="text-align: left;"> 
     <!--<img src="https://github-readme-stats.vercel.app/api?username=yoooohee&theme=default" alt="Anurag's GitHub stats">-->
     <a href="https://solved.ac/yunbal12345">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=yunbal12345" alt="Solved.ac 프로필">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunbal12345" alt="Solved.ac 프로필">
     </a>
     <a href="https://solved.ac/profile/yunbal12345">
         <img src="https://mazandi.herokuapp.com/api?handle=yunbal12345&theme=gold" alt="Solved.ac Profile Badge">
