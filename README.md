@@ -33,10 +33,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
 <div style="text-align: left;"> 
-    <!-- GitHub Stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=yoooohee&theme=default" alt="Anurag's GitHub stats" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=yoooohee&theme=default" alt="Anurag's GitHub stats" />
 
     <!-- Solved.ac Profile Badge -->
     <a href="https://solved.ac/your_boj_handle">
